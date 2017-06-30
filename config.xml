@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.designbest.trentoceramiche" version="6.0.37" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.designbest.trentoceramiche" version="6.1.37" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Trento Ceramiche</name>
     <description>
 Questa applicazione ti permette di portare sempre con te, sul tuo Smartphone o Tablet, il catalogo d'arredamento di Trento Ceramiche, il tuo negozio di fiducia di design a Trento (TN).
@@ -104,6 +104,6 @@ Con la gallery guarda il prodotto da te selezionato nei minimi dettagli.
     <plugin name="cordova-plugin-inappbrowser" spec="~1.5.0" />
     <plugin name="cordova-plugin-network-information" spec="~1.2.1" />
     <plugin name="cordova-plugin-statusbar" spec="~2.2.0" />
-    <plugin name="cordova-plugin-contacts" CONTACTS_USAGE_DESCRIPTION="" />
+    
 		<plugin name="cordova-plugin-x-socialsharing" spec="~5.1.8" src="https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin" />
 </widget>
