@@ -10,9 +10,6 @@
         "cordova-custom-config": {
             "PACKAGE_NAME": "com.designbest.trentoceramiche"
         },
-        "cordova-plugin-contacts": {
-            "PACKAGE_NAME": "com.designbest.trentoceramiche"
-        },
         "cordova-plugin-device": {
             "PACKAGE_NAME": "com.designbest.trentoceramiche"
         },
@@ -40,9 +37,6 @@
         }
     },
     "dependent_plugins": {
-        "cordova-plugin-compat": {
-            "PACKAGE_NAME": "com.designbest.trentoceramiche"
-        },
         "es6-promise-plugin": {
             "PACKAGE_NAME": "com.designbest.trentoceramiche"
         }
