@@ -7,38 +7,38 @@
         "files": {}
     },
     "installed_plugins": {
-        "cordova-custom-config": {
-            "PACKAGE_NAME": "com.designbest.trentoceramiche"
-        },
-        "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.designbest.trentoceramiche"
-        },
-        "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.designbest.trentoceramiche"
-        },
-        "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.designbest.trentoceramiche"
-        },
-        "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.designbest.trentoceramiche"
-        },
-        "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.designbest.trentoceramiche"
-        },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.designbest.trentoceramiche"
-        },
-        "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "com.designbest.trentoceramiche"
+            "PACKAGE_NAME": "com.trentoceramiche.TrentoCeramiche"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.designbest.trentoceramiche"
+            "PACKAGE_NAME": "com.trentoceramiche.TrentoCeramiche"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.trentoceramiche.TrentoCeramiche"
+        },
+        "cordova-custom-config": {
+            "PACKAGE_NAME": "com.trentoceramiche.TrentoCeramiche"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.trentoceramiche.TrentoCeramiche"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.trentoceramiche.TrentoCeramiche"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.trentoceramiche.TrentoCeramiche"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.trentoceramiche.TrentoCeramiche"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.trentoceramiche.TrentoCeramiche"
         }
     },
     "dependent_plugins": {
         "es6-promise-plugin": {
-            "PACKAGE_NAME": "com.designbest.trentoceramiche"
+            "PACKAGE_NAME": "com.trentoceramiche.TrentoCeramiche"
         }
     }
 }
